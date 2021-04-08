@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlinExam</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDG_kPTWGZUaSpJpffYox08iQHMVePGzlU</string>
+</resources>
